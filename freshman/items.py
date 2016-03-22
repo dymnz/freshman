@@ -11,7 +11,6 @@ from scrapy.item import Item, Field
 
 class FreshmanItem(scrapy.Item):
 	other = Field()
-	school = Field()
 	idNum = Field()
 	name = Field()
 	dept = Field()

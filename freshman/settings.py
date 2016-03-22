@@ -13,7 +13,7 @@ BOT_NAME = 'freshman'
 
 SPIDER_MODULES = ['freshman.spiders']
 NEWSPIDER_MODULE = 'freshman.spiders'
-
+LOG_LEVEL = 'INFO'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'freshman (+http://www.yourdomain.com)'
